@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-generator-sdk",
+  "version": "1.0.0",
+  "description": "A simple SDK to generate QR codes from wallet addresses",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr-code",
+    "wallet",
+    "sdk"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.5.1"
+  }
+}
